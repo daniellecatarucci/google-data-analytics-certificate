@@ -1,1 +1,0 @@
-* Source: Motivate International Inc. [Divvy Trip](https://divvy-tripdata.s3.amazonaws.com/index.html)

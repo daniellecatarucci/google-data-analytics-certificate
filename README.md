@@ -36,4 +36,4 @@ The project uses the Google process for data analysis, divided into six steps:
 
 ### 4. Project Summary
 
-For all the steps of analysis and results, click [here](notebook/project_documentation.Rmd).
+For all the steps of analysis and results, click [here](notebook/project_documentation.md).
